@@ -75,8 +75,12 @@ Then it will display a popup that will rank all teams from 1 to 8 based on point
 
 
 
+[![Block Wars Stats](https://imgur.com/a/xvXP9a9)](https://youtu.be/U7ee_8RHWaI "Block Wars Stats")
 
-[![Block Wars Stats]((https://github.com/Suiron99/BlockWarsStats/assets/142955018/cbd009e9-0e2b-4568-8c3c-8798b5ed7ae4))](https://youtu.be/U7ee_8RHWaI "Block Wars Stats")
+
+
+
+
 
 
 
