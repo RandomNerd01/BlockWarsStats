@@ -1,4 +1,4 @@
-![image](https://github.com/Suiron99/BlockWarsStats/assets/142955018/afc13188-46cb-4368-8fb5-371a01bbd8f5)# Block Wars Team Stats Checker
+# Block Wars Team Stats Checker
 
 
 
@@ -76,7 +76,7 @@ Then it will display a popup that will rank all teams from 1 to 8 based on point
 
 
 
-[![Block Wars Stats](![image](https://github.com/Suiron99/BlockWarsStats/assets/142955018/cbd009e9-0e2b-4568-8c3c-8798b5ed7ae4))](https://youtu.be/U7ee_8RHWaI "Block Wars Stats")
+[![Block Wars Stats]((https://github.com/Suiron99/BlockWarsStats/assets/142955018/cbd009e9-0e2b-4568-8c3c-8798b5ed7ae4))](https://youtu.be/U7ee_8RHWaI "Block Wars Stats")
 
 
 
