@@ -1,6 +1,9 @@
 # Block Wars Team Stats Checker
 
 
+https://suiron99.github.io/BlockWarsStats/
+
+
 
 ## Steps
 
