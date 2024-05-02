@@ -2,7 +2,7 @@
     position: fixed;
     top: 10px; /* Adjust top position as needed */
     right: 10px; /* Adjust right position as needed */
-    width: 100px; /* Adjust width as needed */
+    width: 50px; /* Adjust width as needed */
     height: auto; /* Maintain aspect ratio */
     z-index: 999; /* Ensure the icon appears above other content */
 }
