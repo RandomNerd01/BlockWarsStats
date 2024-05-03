@@ -1,8 +1,0 @@
-.icon {
-    position: absolute;
-    top: 10px; /* Adjust top position as needed */
-    right: 10px; /* Adjust right position as needed */
-    width: 275px; /* Adjust width as needed */
-    height: auto; /* Maintain aspect ratio */
-    z-index: 999; /* Ensure the icon appears above other content */
-}
