@@ -151,7 +151,7 @@ Then it will display a popup that will rank all teams from 1 to 8 based on avera
 
 
 
-[![Block Wars Stats](https://imgur.com/a/xvXP9a9)](https://youtu.be/U7ee_8RHWaI "Block Wars Stats")
+[![Block Wars Stats](https://imgur.com/a/xvXP9a9)]( "Block Wars Stats")
 
 
 
